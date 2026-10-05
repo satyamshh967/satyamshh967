@@ -6,11 +6,12 @@
 
 ### 💫 About Me
 
-I am a Software Engineering student focused on building **reliable backend systems, real-time distributed applications, and practical AI tools**. Rather than just gluing cloud APIs together, I prefer understanding the lower layers—from local networking and audio pipelines to graph databases and sandboxed execution environments.
+I am a Software Engineering student focused on building **reliable backend systems, real-time distributed applications, practical AI tools, and algorithmic problem-solving**. Rather than just gluing cloud APIs together, I prefer understanding the lower layers—from local networking and audio pipelines to graph databases, sandboxed execution environments, and core computational complexity.
 
 - 🎙️ **Building offline-first AI:** Developed **Hearth**, a 100% offline, local real-time captioning and speech translation system with zero cloud telemetry.
 - ⚡ **Exploring decentralized & real-time networking:** Built **FILEUP** (a zero-cloud P2P file-sharing system with UDP radar discovery & WebRTC) and collaborative multi-user coding platforms.
 - 🧠 **AI & Graph Systems:** Engineered end-to-end RAG pipelines and a developer knowledge graph analytics platform using **Neo4j** and **NLP**.
+- 🧩 **Data Structures & Algorithms:** Dedicated, continuous algorithmic practice in **C++** and **Java**, focusing on optimal time/space complexity, idiomatic STL/Collections, and fundamental computer science paradigms.
 - 🐧 **Systems & Security:** Actively exploring Linux internals, shell scripting, and security concepts (OverTheWire Bandit 25+ levels completed).
 - 🎯 **Engineering Ethos:** *Build &rarr; Break &rarr; Understand &rarr; Optimize &rarr; Repeat.*
 
@@ -22,7 +23,7 @@ I am a Software Engineering student focused on building **reliable backend syste
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Languages** | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white" /> |
+| **DSA & Languages** | <img src="https://img.shields.io/badge/C%2B%2B_(DSA)-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Java_(DSA)-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white" /> |
 | **Backend & Real-Time** | <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" /> <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" /> |
 | **Frontend & UI** | <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /> |
 | **Databases & ORMs** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" /> <img src="https://img.shields.io/badge/ChromaDB-Vector_DB-5A67D8?style=flat-square" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" /> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" /> |
@@ -31,7 +32,28 @@ I am a Software Engineering student focused on building **reliable backend syste
 
 </div>
 
-> *Note: C++ and Java form the core of my Data Structures & Algorithms practice, while TypeScript/JavaScript and Python power my production full-stack & systems work.*
+---
+
+### 🧩 Data Structures & Algorithms (C++ & Java)
+
+<div align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-Data_Structures_%26_Algorithms-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Java-Data_Structures_%26_Algorithms-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</div>
+
+<br>
+
+I treat algorithmic problem-solving as a foundational software engineering pillar. While JavaScript/TypeScript and Python drive my production web and backend engineering, **C++ and Java are my primary tools for algorithmic problem-solving, memory efficiency, and computational rigor**:
+
+| Category | Topics & Algorithmic Patterns Practiced |
+| :--- | :--- |
+| **Linear Data Structures** | Arrays, Strings, Two-Pointer Technique, Sliding Window, Singly/Doubly Linked Lists, Fast & Slow Pointers, Stacks & Monotonic Stacks, Queues & Deques |
+| **Trees & Hierarchies** | Binary Trees, Binary Search Trees (BST), Tree Traversals (Inorder, Preorder, Postorder, Level-Order), Lowest Common Ancestor (LCA), Heaps / Priority Queues, Tries |
+| **Graph Algorithms** | Breadth-First Search (BFS), Depth-First Search (DFS), Topological Sort (Kahn's Algorithm), Cycle Detection in Directed/Undirected Graphs, Shortest Paths (Dijkstra's), Disjoint Set Union (DSU) |
+| **Algorithms & Paradigms** | Binary Search (including search on answer spaces), Recursion & Backtracking, Divide and Conquer, Greedy Algorithms |
+| **Dynamic Programming** | 1D & 2D DP, 0/1 Knapsack & Unbounded Knapsack variations, Longest Common Subsequence (LCS), Longest Increasing Subsequence (LIS), Memoization vs. Tabulation |
+| **Language Tooling** | **C++:** Standard Template Library (`std::vector`, `std::unordered_map`, `std::priority_queue`, algorithms, iterators) <br> **Java:** Collections Framework (`ArrayList`, `HashMap`, `PriorityQueue`, `TreeSet`), OOP patterns |
 
 ---
 
@@ -155,25 +177,16 @@ I am a Software Engineering student focused on building **reliable backend syste
 
 ---
 
-### 🛡️ Systems, Security & Algorithmic Practice
+### 🛡️ Systems & Security Exploration
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h4>🐧 Linux & Systems Exploration</h4>
-      <p>Deepening lower-level knowledge through <b>OverTheWire Bandit</b>:</p>
+    <td width="100%" valign="top">
+      <h4>🐧 Linux & Systems Internals</h4>
+      <p>Deepening lower-level knowledge through <b>OverTheWire Bandit</b> and POSIX shell engineering:</p>
       <ul>
-        <li><b>25+ Levels Completed</b></li>
-        <li>Hands-on experience with Linux shell, SSH, file permissions, pipes, process management, network sockets, environment manipulation, and security-oriented problem solving.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🧩 Data Structures & Algorithms</h4>
-      <p>Continuous algorithmic practice in <b>C++</b> & <b>Java</b>:</p>
-      <ul>
-        <li>Arrays, Strings, Linked Lists, Stacks & Queues</li>
-        <li>Trees, Binary Search Trees, Heaps, and Graph Traversals</li>
-        <li>Recursion, Backtracking, and Dynamic Programming</li>
+        <li><b>25+ Levels Completed on Bandit</b></li>
+        <li>Hands-on experience with Linux shell, SSH authentication, file permission masks, process piping & file descriptors, network sockets, environment variables, and security-oriented problem solving.</li>
       </ul>
     </td>
   </tr>
