@@ -1,22 +1,5 @@
-<h1 align="center">Hi, I'm Satyam Sharma <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">Software Engineering Student & Backend / AI Systems Builder</h3>
-
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=650&lines=Backend+%26+Distributed+Systems;Offline-First+%26+Peer-to-Peer+Architectures;Building+End-to-End+RAG+%26+AI+Pipelines;Low-Level+Systems+%26+Linux+Exploration">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=650&lines=Backend+%26+Distributed+Systems;Offline-First+%26+Peer-to-Peer+Architectures;Building+End-to-End+RAG+%26+AI+Pipelines;Low-Level+Systems+%26+Linux+Exploration" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="mailto:satyamshh.967@gmail.com">
-    <img src="https://img.shields.io/badge/Email-satyamshh.967%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/satyamshh967">
-    <img src="https://img.shields.io/badge/GitHub-satyamshh967-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
-  </a>
-  <a href="https://github.com/satyamshh967?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-14_Projects-0969DA?style=flat-square&logo=git&logoColor=white" alt="Repositories" />
-  </a>
+  <img src="https://raw.githubusercontent.com/satyamshh967/satyamshh967/main/assets/contribution-city.svg" width="100%" alt="Contribution City: an isometric night skyline with one building per day of the last year" />
 </p>
 
 ---
