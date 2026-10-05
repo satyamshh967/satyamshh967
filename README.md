@@ -57,8 +57,8 @@ I am a Software Engineering student focused on building **reliable backend syste
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎙️ <a href="https://github.com/satyamshh967/Hearth-Live-Captioning-System">Hearth</a></h3>
-      <p><b>Private, 100% Offline Live Captions & Speech Translation System</b></p>
+      <h3>🎙️ <a href="https://github.com/satyamshh967/hearth">hearth</a></h3>
+      <p><b>Private, 100% Offline Live Captions & Speech Translation</b></p>
       <ul>
         <li>Local desktop and web app providing real-time speech translation and live captions with <b>zero cloud dependencies</b> and zero telemetry.</li>
         <li>Sub-second local model inference decoupling profiles for family, work, and medical settings.</li>
@@ -71,7 +71,7 @@ I am a Software Engineering student focused on building **reliable backend syste
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/satyamshh967/Offline-P2P-File-Sharing">FILEUP</a></h3>
+      <h3>⚡ <a href="https://github.com/satyamshh967/fileup">fileup</a></h3>
       <p><b>Offline-First Peer-to-Peer Local File Sharing System</b></p>
       <ul>
         <li>Secure device-to-device high-speed file transfer across LAN/Wi-Fi without internet or external cloud relays.</li>
@@ -87,7 +87,7 @@ I am a Software Engineering student focused on building **reliable backend syste
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/satyamshh967/SmartInterview">SmartInterview</a></h3>
+      <h3>🧠 <a href="https://github.com/satyamshh967/smart-interview">smart-interview</a></h3>
       <p><b>Technical Interview Simulation & Candidate Evaluation Platform</b></p>
       <ul>
         <li>Full-lifecycle interview simulator featuring timed rooms, Monaco code editor, and live audio/video feed.</li>
@@ -101,7 +101,7 @@ I am a Software Engineering student focused on building **reliable backend syste
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com/satyamshh967/Developer-Knowledge-Platform">Dev Knowledge Graph</a></h3>
+      <h3>📊 <a href="https://github.com/satyamshh967/devgraph">devgraph</a></h3>
       <p><b>Repository Analytics & Developer Skill Graph in Neo4j</b></p>
       <ul>
         <li>Analyzes GitHub repositories and dependency manifests using NLP to extract developer competencies.</li>
@@ -117,7 +117,7 @@ I am a Software Engineering student focused on building **reliable backend syste
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💼 <a href="https://github.com/satyamshh967/CompScope">CompScope</a></h3>
+      <h3>💼 <a href="https://github.com/satyamshh967/compscope">compscope</a></h3>
       <p><b>Full-Stack Compensation Intelligence & Benchmarking Platform</b></p>
       <ul>
         <li>Salary analytics, validation, normalization, and duplicate-detection pipeline deployed in production.</li>
@@ -131,7 +131,7 @@ I am a Software Engineering student focused on building **reliable backend syste
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/satyamshh967/ai-knowledge-pipeline">AI Knowledge Pipeline</a></h3>
+      <h3>🤖 <a href="https://github.com/satyamshh967/rag-pipeline">rag-pipeline</a></h3>
       <p><b>End-to-End Retrieval-Augmented Generation (RAG) Architecture</b></p>
       <ul>
         <li>Built to understand the complete RAG backend lifecycle beyond superficial LLM wrapper calls.</li>
@@ -148,12 +148,13 @@ I am a Software Engineering student focused on building **reliable backend syste
 </table>
 
 <details>
-  <summary><b>🔍 View More Projects (Collaborative Coding, DevHub API, OS Concepts)</b></summary>
+  <summary><b>🔍 View More Projects (Collaborative Coding, DevHub API, OS Concepts, Extensions)</b></summary>
   <br>
 
-- **[Collaborative-Coding-Platform](https://github.com/satyamshh967/Collaborative-Coding-Platform)** — Real-time multi-developer IDE with Monaco editor, live cursor tracking, presence sync via Socket.io, and sandboxed code execution.
-- **[DevHub-API](https://github.com/satyamshh967/devhub-api)** — Production-grade REST backend with JWT auth, RBAC permissions, security middleware (Helmet/bcrypt), Swagger docs, automated testing (Jest/Supertest), and GitHub Actions CI.
-- **[OsProject](https://github.com/satyamshh967/OsProject)** — Systems-level exploration covering core Operating Systems principles, process scheduling, concurrency, and memory management.
+- **[collab-code](https://github.com/satyamshh967/collab-code)** — Real-time collaborative code editor with live cursor tracking, Monaco editor, and sandboxed execution.
+- **[devhub-api](https://github.com/satyamshh967/devhub-api)** — Production-ready RESTful API featuring JWT authentication, RBAC, Jest tests, and Swagger documentation.
+- **[os-internals](https://github.com/satyamshh967/os-internals)** — Implementations and experiments covering operating system scheduling, memory management, and concurrency.
+- **[yt-study](https://github.com/satyamshh967/yt-study)** — Browser extension designed to enhance learning and note-taking while watching technical YouTube videos.
 </details>
 
 ---
