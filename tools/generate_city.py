@@ -286,7 +286,7 @@ def build_activity_graph(weeks, updated):
     <tspan class="gr">$</tspan> render-activity --timeline 52w --metric velocity <tspan fill="#484f58"># interactive commit trend</tspan>
   </text>
   <text x="{FR-36}" y="82" text-anchor="end" class="cy" style="font-size:12px;font-weight:700">
-    Peak: {max_c} commits/wk &nbsp;&nbsp;<tspan class="dim">|</tspan>&nbsp;&nbsp; Total: {total_commits} commits
+    Peak: {max_c} commits/wk &#160;&#160;<tspan class="dim">|</tspan>&#160;&#160; Total: {total_commits} commits
   </text>
 </g>
 <g>{"".join(grid_lines)}</g>
