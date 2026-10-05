@@ -167,6 +167,10 @@ I treat algorithmic problem-solving as a foundational software engineering pilla
 ### 📊 GitHub Activity & Statistics
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/satyamshh967/satyamshh967/main/assets/activity-graph.svg" width="100%" alt="Satyam's Weekly Contribution & Commit Velocity Graph" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=satyamshh967&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="Satyam's GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=satyamshh967&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
 </p>
