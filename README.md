@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/satyamshh967/satyamshh967/main/assets/contribution-city.svg" width="100%" alt="Contribution City: an isometric night skyline with one building per day of the last year" />
+  <img src="./assets/contribution-city.svg" width="100%" alt="Contribution City: an isometric panoramic night skyline with one building per day of the last year" />
 </p>
 
 ---
@@ -167,7 +167,7 @@ I treat algorithmic problem-solving as a foundational software engineering pilla
 ### 📊 GitHub Activity & Statistics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/satyamshh967/satyamshh967/main/assets/activity-graph.svg" width="100%" alt="Satyam's Weekly Contribution & Commit Velocity Graph" />
+  <img src="./assets/activity-graph.svg" width="100%" alt="Satyam's Weekly Contribution & Commit Velocity Graph" />
 </p>
 
 <p align="center">
