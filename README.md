@@ -8,7 +8,7 @@
 
 I am a Software Engineering student focused on building **reliable backend systems, real-time distributed applications, practical AI tools, and algorithmic problem-solving**. Rather than just gluing cloud APIs together, I prefer understanding the lower layers—from local networking and audio pipelines to graph databases, sandboxed execution environments, and core computational complexity.
 
-- 🎙️ **Building offline-first AI:** Developed **Hearth**, a 100% offline, local real-time captioning and speech translation system with zero cloud telemetry.
+- 🎙️ **Building offline-first AI:** Developed **Hearth** (offline live captioning & translation) and **Sidequest** (an offline, audio-first nature exploration agent with local **Gemma 3** multimodal vision).
 - ⚡ **Exploring decentralized & real-time networking:** Built **FILEUP** (a zero-cloud P2P file-sharing system with UDP radar discovery & WebRTC) and collaborative multi-user coding platforms.
 - 🧠 **AI & Graph Systems:** Engineered end-to-end RAG pipelines and a developer knowledge graph analytics platform using **Neo4j** and **NLP**.
 - 🧩 **Data Structures & Algorithms:** Dedicated, continuous algorithmic practice in **C++** and **Java**, focusing on optimal time/space complexity, idiomatic STL/Collections, and fundamental computer science paradigms.
@@ -62,6 +62,20 @@ I treat algorithmic problem-solving as a foundational software engineering pilla
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>🌿 <a href="https://github.com/satyamshh967/sidequest-ai">sidequest-ai</a></h3>
+      <p><b>Offline, Audio-First Scavenger Hunt Agent with Gemma 3 Vision</b></p>
+      <ul>
+        <li>Hands-free nature exploration PWA using Google DeepMind's open-weight <b>Gemma 3</b> vision model for local multimodal verification (~1.2s).</li>
+        <li>Built for Hacktoberfest 2026 AI Challenge: 100% offline edge execution, safety guardrails, and automated eval harness.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemma_3-4285F4?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/Mastra-8B5CF6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3>🎙️ <a href="https://github.com/satyamshh967/hearth">hearth</a></h3>
       <p><b>Private, 100% Offline Live Captions & Speech Translation</b></p>
       <ul>
@@ -75,6 +89,8 @@ I treat algorithmic problem-solving as a foundational software engineering pilla
         <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>⚡ <a href="https://github.com/satyamshh967/fileup">fileup</a></h3>
       <p><b>Offline-First Peer-to-Peer Local File Sharing System</b></p>
@@ -89,8 +105,6 @@ I treat algorithmic problem-solving as a foundational software engineering pilla
         <img src="https://img.shields.io/badge/UDP_Sockets-00599C?style=flat-square" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🧠 <a href="https://github.com/satyamshh967/smart-interview">smart-interview</a></h3>
       <p><b>Technical Interview Simulation & Candidate Evaluation Platform</b></p>
@@ -103,20 +117,6 @@ I treat algorithmic problem-solving as a foundational software engineering pilla
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com/satyamshh967/devgraph">devgraph</a></h3>
-      <p><b>Repository Analytics & Developer Skill Graph in Neo4j</b></p>
-      <ul>
-        <li>Analyzes GitHub repositories and dependency manifests using NLP to extract developer competencies.</li>
-        <li>Models contributors, commits, and codebases into an interactive <b>Neo4j property graph</b> to calculate complexity metrics.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/NLP-Graph-purple?style=flat-square" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -156,6 +156,7 @@ I treat algorithmic problem-solving as a foundational software engineering pilla
   <summary><b>🔍 View More Projects (Collaborative Coding, DevHub API, OS Concepts, Extensions)</b></summary>
   <br>
 
+- **[devgraph](https://github.com/satyamshh967/devgraph)** — Repository analytics platform parsing codebases with NLP and constructing interactive Neo4j skill property graphs.
 - **[collab-code](https://github.com/satyamshh967/collab-code)** — Real-time collaborative code editor with live cursor tracking, Monaco editor, and sandboxed execution.
 - **[devhub-api](https://github.com/satyamshh967/devhub-api)** — Production-ready RESTful API featuring JWT authentication, RBAC, Jest tests, and Swagger documentation.
 - **[os-internals](https://github.com/satyamshh967/os-internals)** — Implementations and experiments covering operating system scheduling, memory management, and concurrency.
