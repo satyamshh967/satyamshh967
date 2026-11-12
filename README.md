@@ -9,6 +9,7 @@
 I am a Software Engineering student focused on building **reliable backend systems, real-time distributed applications, practical AI tools, and algorithmic problem-solving**. Rather than just gluing cloud APIs together, I prefer understanding the lower layers—from local networking and audio pipelines to graph databases, sandboxed execution environments, and core computational complexity.
 
 - 🎙️ **Building offline-first AI:** Developed **Hearth** (offline live captioning & translation) and **Sidequest** (an offline, audio-first nature exploration agent with local **Gemma 3** multimodal vision).
+- 🌌 **Physics & Systems Simulation:** Engineered **gravity-engine**, a high-performance 2D N-body celestial mechanics and gravity simulation engine in modern **C++20** & **Raylib** featuring symplectic Velocity Verlet integrators, inelastic/elastic collision physics, and momentum-conserving destruction fragmentation.
 - ⚡ **Exploring decentralized & real-time networking:** Built **FILEUP** (a zero-cloud P2P file-sharing system with UDP radar discovery & WebRTC) and collaborative multi-user coding platforms.
 - 🧠 **AI & Graph Systems:** Engineered end-to-end RAG pipelines and a developer knowledge graph analytics platform using **Neo4j** and **NLP**.
 - 🧩 **Data Structures & Algorithms:** Dedicated, continuous algorithmic practice in **C++** and **Java**, focusing on optimal time/space complexity, idiomatic STL/Collections, and fundamental computer science paradigms.
@@ -92,6 +93,20 @@ I treat algorithmic problem-solving as a foundational software engineering pilla
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>🌌 <a href="https://github.com/satyamshh967/gravity-engine">gravity-engine</a></h3>
+      <p><b>2D N-Body Celestial Mechanics & Gravity Physics Engine</b></p>
+      <ul>
+        <li>High-performance orbital mechanics simulator built in modern <b>C++20</b> and <b>Raylib</b> using symplectic <b>Velocity Verlet</b> numerical integration.</li>
+        <li>Features momentum-conserving destruction fragmentation, Plummer softening, real-time object inspector, and astronomical presets.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/C%2B%2B20-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+        <img src="https://img.shields.io/badge/Raylib_5.0-white?style=flat-square&logo=raylib&logoColor=black" />
+        <img src="https://img.shields.io/badge/Velocity_Verlet-7928CA?style=flat-square" />
+        <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3>⚡ <a href="https://github.com/satyamshh967/fileup">fileup</a></h3>
       <p><b>Offline-First Peer-to-Peer Local File Sharing System</b></p>
       <ul>
@@ -105,6 +120,8 @@ I treat algorithmic problem-solving as a foundational software engineering pilla
         <img src="https://img.shields.io/badge/UDP_Sockets-00599C?style=flat-square" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🧠 <a href="https://github.com/satyamshh967/smart-interview">smart-interview</a></h3>
       <p><b>Technical Interview Simulation & Candidate Evaluation Platform</b></p>
@@ -119,8 +136,6 @@ I treat algorithmic problem-solving as a foundational software engineering pilla
         <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>💼 <a href="https://github.com/satyamshh967/compscope">compscope</a></h3>
       <p><b>Full-Stack Compensation Intelligence & Benchmarking Platform</b></p>
@@ -135,6 +150,8 @@ I treat algorithmic problem-solving as a foundational software engineering pilla
         <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🤖 <a href="https://github.com/satyamshh967/rag-pipeline">rag-pipeline</a></h3>
       <p><b>End-to-End Retrieval-Augmented Generation (RAG) Architecture</b></p>
@@ -149,18 +166,33 @@ I treat algorithmic problem-solving as a foundational software engineering pilla
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       </p>
     </td>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/satyamshh967/devgraph">devgraph</a></h3>
+      <p><b>Repository Analytics & Developer Skill Graph in Neo4j</b></p>
+      <ul>
+        <li>Analyzes GitHub repositories and dependency manifests using NLP to extract developer competencies.</li>
+        <li>Models contributors, commits, and codebases into an interactive <b>Neo4j property graph</b> to calculate complexity metrics.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/NLP-Graph-purple?style=flat-square" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+      </p>
+    </td>
   </tr>
 </table>
 
 <details>
-  <summary><b>🔍 View More Projects (Collaborative Coding, DevHub API, OS Concepts, Extensions)</b></summary>
+  <summary><b>🔍 View More Projects (Collaborative Coding, DevHub API, OS Concepts, Web Apps)</b></summary>
   <br>
 
-- **[devgraph](https://github.com/satyamshh967/devgraph)** — Repository analytics platform parsing codebases with NLP and constructing interactive Neo4j skill property graphs.
 - **[collab-code](https://github.com/satyamshh967/collab-code)** — Real-time collaborative code editor with live cursor tracking, Monaco editor, and sandboxed execution.
 - **[devhub-api](https://github.com/satyamshh967/devhub-api)** — Production-ready RESTful API featuring JWT authentication, RBAC, Jest tests, and Swagger documentation.
-- **[os-internals](https://github.com/satyamshh967/os-internals)** — Implementations and experiments covering operating system scheduling, memory management, and concurrency.
+- **[os-internals](https://github.com/satyamshh967/os-internals)** — Implementations and experiments covering operating system scheduling, memory management, and concurrency in Java 21.
 - **[yt-study](https://github.com/satyamshh967/yt-study)** — Browser extension designed to enhance learning and note-taking while watching technical YouTube videos.
+- **[shopkart-backend](https://github.com/satyamshh967/shopkart-backend)** & **[shopkart-web](https://github.com/satyamshh967/shopkart-web)** — E-commerce store and REST API with product inventory, cart management, and order processing.
+- **[mern-starter](https://github.com/satyamshh967/mern-starter)** — Full-stack MERN application exploring authentication, RESTful APIs, and state management.
 </details>
 
 ---
